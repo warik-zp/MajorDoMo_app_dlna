@@ -19,7 +19,7 @@ class app_dlna extends module {
 function app_dlna() {
   $this->name="app_dlna";
   $this->title="DLNA";
-  $this->module_category="<#LANG_SECTION_APPLICATIONS#>";
+  $this->module_category="<#LANG_SECTION_DEVICES#>";
   $this->checkInstalled();
 }
 /**
